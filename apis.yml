@@ -1,48 +1,20 @@
-name: Outil Achats API
-description: API for French public procurement platform Outil Achats, providing access to public tender data, contract information, and procurement processes
-image: https://www.outil-achats.fr/logo.png
-url: https://www.outil-achats.fr
-created: '2024'
-modified: '2024'
+aid: outil-achats
+name: Outil Achats
+description: >-
+  Outil Achats is a French procurement and purchasing tool platform providing
+  solutions for public and private sector procurement management.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- procurement
-- public tenders
-- contracts
-- government
-- France
-- e-procurement
-apis:
-- name: Outil Achats Public Procurement API
-  description: Access to French public procurement data including tenders, contracts, and buyer information
-  image: https://www.outil-achats.fr/api-logo.png
-  humanURL: https://www.outil-achats.fr
-  baseURL: https://api.outil-achats.fr/v1
-  tags:
-  - tenders
-  - procurement
-  - public contracts
-  - buyers
-  properties:
-  - type: Documentation
-    url: https://api.outil-achats.fr/docs
-  - type: OpenAPI
-    url: https://api.outil-achats.fr/openapi.json
-  - type: Authentication
-    url: https://api.outil-achats.fr/auth
-  - type: Terms of Service
-    url: https://www.outil-achats.fr/terms
-  - type: Contact
-    url: https://www.outil-achats.fr/contact
-  - type: Pricing
-    url: https://www.outil-achats.fr/pricing
-  contact:
-  - type: Support
-    url: https://www.outil-achats.fr/support
-    email: support@outil-achats.fr
-  - type: Technical
-    email: api@outil-achats.fr
+  - Procurement
+  - Purchasing
+  - France
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/outil-achats/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
 maintainers:
-- name: Outil Achats Team
-  email: contact@outil-achats.fr
-  url: https://www.outil-achats.fr
-include: []
+  - FN: Kin Lane
+    email: kin@apievangelist.com
