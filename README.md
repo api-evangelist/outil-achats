@@ -1,40 +1,30 @@
-# Outil Achats API (outil-achats)
-API for French public procurement platform Outil Achats, providing access to public tender data, contract information, and procurement processes
+# Outil Achats (outil-achats)
 
-**URL:** [Visit APIs.json URL](https://www.outil-achats.fr)
+Outil Achats refers to French procurement and purchasing tools used by public and private sector organizations for managing tenders, suppliers, and contracts. No verifiable public APIs are currently documented for this category.
 
-## Tags:
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/outil-achats/refs/heads/main/apis.yml)
 
- - procurement, public tenders, contracts, government, France, e-procurement
+## Scope
+
+- **Type:** Index
+
+## Tags
+
+- France
+- Procurement
+- Purchasing
+- Public Sector
 
 ## Timestamps
 
-- **Created:** 2024 
-- **Modified:** 2024 
+- **Created:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Outil Achats Public Procurement API
-Access to French public procurement data including tenders, contracts, and buyer information
-
-**Human URL:** [https://www.outil-achats.fr](https://www.outil-achats.fr)
-
-
-#### Tags:
-
- - tenders, procurement, public contracts, buyers
-
-#### Properties
-
-- [Documentation](https://api.outil-achats.fr/docs)
-- [OpenAPI](https://api.outil-achats.fr/openapi.json)
-- [Authentication](https://api.outil-achats.fr/auth)
-- [Terms of Service](https://www.outil-achats.fr/terms)
-- [Contact](https://www.outil-achats.fr/contact)
-- [Pricing](https://www.outil-achats.fr/pricing)
+No APIs have been documented yet. Check back for updates.
 
 ## Maintainers
 
-**FN:** Outil Achats Team
-
-**Email:** contact@outil-achats.fr
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
